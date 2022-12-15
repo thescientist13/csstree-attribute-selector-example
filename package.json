@@ -1,0 +1,15 @@
+{
+  "name": "csstree-attribute-selector-example",
+  "version": "1.0.0",
+  "description": "Example of processing AttributeSelectors with CSSTree",
+  "main": "index.js",
+  "type": "module",
+  "author": "Owen Buckley <owen@thregreenhouse.io>",
+  "license": "ISC",
+  "scripts": {
+    "demo": "node index.js"
+  },
+  "dependencies": {
+    "css-tree": "^2.3.1"
+  }
+}
